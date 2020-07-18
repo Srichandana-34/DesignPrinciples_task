@@ -1,4 +1,4 @@
-# ShivaniKolanu_DesignPrinciples
+# Srichandana_DesignPrinciples
 
 This a maven project on Simple Calculator.
 
